@@ -18,7 +18,7 @@ function setup() {
   ball.vel.x = 50;
   // End Basic shape testing;
   square = new Sprite(100,500,150,10);
-  square.color = "black";
+  square.color = "blue";
   yes = new Sprite(150,500,50,10);
   yes2 = new Sprite(300,300,50,40);
   square2 = new Sprite(150,200,30,30);
