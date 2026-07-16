@@ -47,5 +47,5 @@ function draw() {
   fill('orange')
   rect(100,150,50,100)
   fill('lime')
-  ellipse(200,300)
+  ellipse(200,300,100,300)
 }
