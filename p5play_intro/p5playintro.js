@@ -46,6 +46,6 @@ function draw() {
   ellipse(200,200,300,100)
   fill('orange')
   rect(100,150,50,100)
-  fill('green')
+  fill('lime green')
   triangle(100,150,50,100,10,30)
 }
