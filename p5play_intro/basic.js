@@ -14,9 +14,9 @@ function setup() {
 
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
-
+let aaa
 for(let i = 0; i <= 10; i += 2){
-    ext(aa,100,100 + i*25);
+  text(aa,100,100 + i*25);
 }
 
   // --- Exercise: Age category classification ---
