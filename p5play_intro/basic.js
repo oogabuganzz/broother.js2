@@ -1,6 +1,7 @@
 function setup() {
   // write your codes here
-  new C
+  new Canvas(600,600);
+  
   // --- Exercise: Area of Triangle ---
   // write your codes here
 
