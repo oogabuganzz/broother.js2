@@ -17,9 +17,9 @@ function setup() {
 let aaa = 0
 for(let i = 0; i <= 10; i += 2){
   aaa += i
-  text(aaa,100,100 + i*25);
-}
 
+}
+  text(aaa,100,100);
   // --- Exercise: Age category classification ---
   // write your codes here
 
