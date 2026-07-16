@@ -23,7 +23,9 @@ for(let i = 0; i <= 20; i += 2){
   // --- Exercise: Age category classification ---
   // write your codes here
   let Age = 11;
-  
+  if (Age > 0 && Age < 2){
+    
+  }
 
   // --- Exercise: Display odd numbers backward using while loop ---
   // write your codes here
