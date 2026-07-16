@@ -16,4 +16,6 @@ function setup() {
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
 }
-function draw()
+function draw() {
+  ahdhashdahsdhadshashdahdhadhahsdhjdfiuhaiugfha8shfdihasifhaw8hf
+}
