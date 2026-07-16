@@ -30,13 +30,13 @@ for(let i = 0; i <= 20; i += 2){
     console.log("I am a toddler")
   }
   else if( Age < 13){
-    console.log("I am a toddler")
+    console.log("I am a child")
   }
   else if(Age < 4){
-    console.log("I am a toddler")
+    console.log("I am a teen")
   }
   else if(Age < 4){
-    console.log("I am a toddler")
+    console.log("I am a ")
   }
 
   // --- Exercise: Display odd numbers backward using while loop ---
