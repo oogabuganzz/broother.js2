@@ -13,7 +13,7 @@ function setup() {
   // text("the area of triangle is "+ areaTriangle,100,100);
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
-  for(let i =3;i <= 20; i++){
+  for(let i =3;i <= 46; i+=3){
     console.log("counting..."+i)
   }
   // --- Exercise: Age category classification ---
