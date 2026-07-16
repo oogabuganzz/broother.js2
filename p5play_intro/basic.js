@@ -17,5 +17,5 @@ function setup() {
   // write your codes here
 }
 function draw() {
-  ahdhashdahsdhadshashdahdhadhahsdhjdfiuhaiugfha8shfdihasifhaw8hf
+  draw
 }
