@@ -14,8 +14,8 @@ function setup() {
   ball.x = 50;
   ball.diameter = 50;
   ball.color = "red";
-  ball.vel.y = 50;
-  ball.vel.x = 50;
+  ball.vel.y = 5;
+  ball.vel.x = 5;
   // End Basic shape testing;
   square = new Sprite(100,500,150,10);
   square.color = "blue";
@@ -42,5 +42,5 @@ function draw() {
   if (ball.x>400 - ball.diameter/2|| ball.x < 0 + ball.diameter/2){
     ball.vel.x = -1 * ball.vel.x;
   }
-  
+
 }
