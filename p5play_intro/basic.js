@@ -16,4 +16,4 @@ function setup() {
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
 }
-
+function draw()
