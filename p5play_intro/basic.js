@@ -2,7 +2,7 @@ function setup() {
   // write your codes here
   new Canvas(600,600);
   background(200);
-
+  textSize(16);
   // --- Exercise: Area of Triangle ---
   // write your codes here
   // let base = 100;
@@ -11,11 +11,10 @@ function setup() {
   // console.log("area of triangle:" + areaTriangle);
   // textSize(16);
   // text("the area of triangle is "+ areaTriangle,100,100);
+
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
-  for(let i =3;i <= 46; i+=3){
-    console.log("counting..."+i)
-  }
+  
   // --- Exercise: Age category classification ---
   // write your codes here
 
