@@ -16,7 +16,7 @@ function setup() {
   // write your codes here
 let aaa
 for(let i = 0; i <= 10; i += 2){
-  aaa + i
+  aaa += i
   text(aaa,100,100 + i*25);
 }
 
