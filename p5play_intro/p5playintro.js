@@ -44,5 +44,6 @@ function draw() {
   }
   fill(100,200,1)
   ellipse(200,200,300,100)
+  fill('orange')
   rect(100,150,50,100)
 }
