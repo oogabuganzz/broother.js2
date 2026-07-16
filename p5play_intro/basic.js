@@ -26,16 +26,16 @@ for(let i = 0; i <= 20; i += 2){
   if (Age > 0 && Age < 2){
     console.log("I am a infant")
   }
-  else if( Age < 4){
+  else if( Age <= 4){
     console.log("I am a toddler")
   }
-  else if( Age < 13){
+  else if( Age <= 13){
     console.log("I am a child")
   }
-  else if(Age < 18){
+  else if(Age <= 18){
     console.log("I am a teen")
   }
-  else if(Age <= 14){
+  else if(Age = 14){
     console.log("I am a adult")
   }
 
