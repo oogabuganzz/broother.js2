@@ -5,15 +5,17 @@ function setup() {
 
   // --- Exercise: Area of Triangle ---
   // write your codes here
-  let base = 100;
-  let height =100;
-  let areaTriangle = base*height*0.5;
-  console.log("area of triangle:" + areaTriangle);
-  textSize(16);
-  text("the area of triangle is "+ areaTriangle,100,100);
+  // let base = 100;
+  // let height =100;
+  // let areaTriangle = base*height*0.5;
+  // console.log("area of triangle:" + areaTriangle);
+  // textSize(16);
+  // text("the area of triangle is "+ areaTriangle,100,100);
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
-
+  for(let i =1;i <= 10; 1++){
+    
+  }
   // --- Exercise: Age category classification ---
   // write your codes here
 
