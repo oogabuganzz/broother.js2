@@ -10,7 +10,7 @@ function setup() {
   let areaTriangle = base*height*0.5;
   console.log("area of triangle:" + areaTriangle);
   textSize(16);
-  text()
+  text("")
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
 
