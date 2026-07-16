@@ -26,6 +26,7 @@ for(let i = 0; i <= 20; i += 2){
   if (Age > 0 && Age < 2){
     console.log("I am a infant")
   }
+  elseif(A)
 
   // --- Exercise: Display odd numbers backward using while loop ---
   // write your codes here
