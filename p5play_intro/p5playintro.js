@@ -32,6 +32,10 @@ function setup() {
 
 function draw() {
   // write your codes here
+    fill(100,200,1)
+  ellipse(200,200,300,100)
+  fill('orange')
+  rect(100,150,50,100)
   background(250);
   textSize(16);
   text("ball:"+round(ball.x)+","+round(ball.y),20,50);
@@ -42,9 +46,6 @@ function draw() {
   if (ball.x>400 - ball.diameter/2|| ball.x < 0 + ball.diameter/2){
     ball.vel.x = -1 * ball.vel.x;
   }
-  fill(100,200,1)
-  ellipse(200,200,300,100)
-  fill('orange')
-  rect(100,150,50,100)
+
 
 }
