@@ -47,5 +47,5 @@ function draw() {
   fill('orange')
   rect(100,150,50,100)
   fill('lime')
-  triangle(10,20,30,40,50,60)
+  t(10,20,30,40,50,60)
 }
