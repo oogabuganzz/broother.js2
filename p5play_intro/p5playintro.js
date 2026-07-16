@@ -42,5 +42,5 @@ function draw() {
   if (ball.x>400 - ball.diameter/2|| ball.x < 0 + ball.diameter/2){
     ball.vel.x = -1 * ball.vel.x;
   }
-
+  React(100,)
 }
