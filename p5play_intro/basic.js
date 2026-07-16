@@ -29,13 +29,13 @@ for(let i = 0; i <= 20; i += 2){
   else if( Age < 4){
     console.log("I am a toddler")
   }
-  else if( Age < 4){
+  else if( Age < 5){
     console.log("I am a toddler")
   }
   else if(Age < 4){
     console.log("I am a toddler")
   }
-  else if(Age > 3 && Age < 4){
+  else if(Age < 4){
     console.log("I am a toddler")
   }
 
