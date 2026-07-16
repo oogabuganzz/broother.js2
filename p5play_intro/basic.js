@@ -22,7 +22,7 @@ for(let i = 0; i <= 20; i += 2){
   text(aaa,100,100);
   // --- Exercise: Age category classification ---
   // write your codes here
-  let Age = 11;
+  let Age = 20;
   if (Age > 0 && Age < 2){
     console.log("I am a infant")
   }
