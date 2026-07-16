@@ -2,9 +2,10 @@ function setup() {
   // write your codes here
   new Canvas(600,600);
   background(200);
-  
+
   // --- Exercise: Area of Triangle ---
   // write your codes here
+  let base
 
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
