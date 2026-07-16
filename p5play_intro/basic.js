@@ -22,6 +22,7 @@ for(let i = 0; i <= 20; i += 2){
   text(aaa,100,100);
   // --- Exercise: Age category classification ---
   // write your codes here
+  let Age =
 
   // --- Exercise: Display odd numbers backward using while loop ---
   // write your codes here
